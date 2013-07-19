@@ -1,0 +1,7 @@
+// CLoad3DS.cpp: implementation of the CLoad3DS class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "CLoad3DS.h"
+
